@@ -4,7 +4,7 @@ import { FaRegLightbulb } from "react-icons/fa";
 
 
 
-class toggl extends Component {
+class Toggl extends Component {
   constructor(props) {
     super(props);
 
@@ -87,4 +87,4 @@ class toggl extends Component {
   }
 }
 
-export default toggl;
+export default Toggl;
